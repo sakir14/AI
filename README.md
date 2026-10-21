@@ -70,7 +70,7 @@ Ketersediaan dan kebutuhan dicatat pada skala 0–100. Gunakan data lapangan ata
 
 - Fuzzy saat ini memakai ketersediaan dan kebutuhan air; kolom musim, umur tanaman, kondisi saluran, dan hujan disimpan sebagai konteks, belum memengaruhi skor.
 - Graf A* dan koordinat simpulnya adalah simulasi abstrak untuk memperlihatkan algoritma, bukan peta jaringan irigasi Karangampel.
-- Sistem menghasilkan urutan prioritas dan lintasan simulasi, bukan volume alokasi air dalam m³.
+- Sistem menghasilkan urutan prioritas dan lintasan simulasi.
 - Koordinat desa, debit saluran, kapasitas jaringan, dan data lapangan masih perlu dikumpulkan serta divalidasi sebelum klaim operasional.
 
 ## Struktur penting
