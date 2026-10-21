@@ -83,8 +83,4 @@ frontend/src/pages/          dashboard dan halaman demo
 docs/uts/                    draft laporan, slide, dan logbook
 ```
 
-## Dokumen UTS
 
-- `docs/uts/rancangan-proyek.md`: draft narasi, representasi AI, kasus uji, sumber, dan bagian yang harus dilengkapi.
-- `docs/uts/presentasi.md`: susunan maksimal 10 slide untuk presentasi 15 menit.
-- `docs/uts/logbook.md`: template dokumentasi kegiatan dan pembagian tugas kelompok.
