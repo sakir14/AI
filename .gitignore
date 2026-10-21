@@ -4,6 +4,7 @@ backend/app/**/__pycache__/
 backend/irrigation.db
 frontend/node_modules/
 frontend/dist/
+/docs/uts/
 *.py[cod]
 .env
 .env.*
